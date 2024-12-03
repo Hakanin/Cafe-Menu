@@ -4,6 +4,11 @@ This project is a simple HTML and CSS representation of a cafe menu.
 
 ## Project Structure
 
+freecodecamp/desktop.ini
+freecodecamp/index.html
+freecodecamp/styles.css
+freecodecamp/license
+
 ## Files
 
 - **index.html**: The main HTML file that contains the structure of the cafe menu.
